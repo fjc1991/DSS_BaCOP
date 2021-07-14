@@ -39,7 +39,7 @@ b1$aic
 exp(coef(M2))
 car::vif(M2)
 
-##Logistic regression description model 1.2
+##Logistic regression description model 1.1
 
 summary(M3 <-glm(data$status ~ images + video + Des_V_hiller_all + Des_V_Polysemy + Des_V_Contronyms + des_descrip_effect + Sent_count_des +   
                                         Flesch_des  + des_sent_score, family = "binomial",data=data)) 
