@@ -1,4 +1,4 @@
-# DSS_BaCOP
+# DSS_Kickstarter
 This is the code used within the paper currently under submission at Decision Support Systems. 
 
 Manuscript #: DECSUP-D-21-00260
