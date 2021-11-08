@@ -1,5 +1,5 @@
 # DSS_Kickstarter
-This is the code used within the paper currently under submission at Decision Support Systems. 
+This is the code used within the paper that is under publication in Decision Support Systems. 
 
 Manuscript #: DECSUP-D-21-00260
 
