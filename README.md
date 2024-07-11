@@ -3,7 +3,7 @@ This is the code used within the paper titled _Exploring investors' expectancies
 
 Due to the size of the original data file, a sample version was uploaded to GitHub. 
 
-The original data can be provided upon request to the lead author Joe Costello (joe.costehello@gmail.com) or the corresponding author: Dr. Kun Chang Lee (kunchanglee@gmail.com).
+The original data can be provided upon request to the lead author Dr. Francis Joseph Costello (joe.costehello@gmail.com) or the corresponding author: Dr. Kun Chang Lee (kunchanglee@gmail.com).
 
 Use of the code, especially the method for extracting the Vagueness scores should be used in fair use. Also the dictionary used for obtaining the Vaguness scores need to be purchased (https://provalisresearch.com/blog/hiller-vagueness-content-analysis-dictionary/).
 
