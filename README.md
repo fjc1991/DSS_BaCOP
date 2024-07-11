@@ -1,4 +1,4 @@
-# DSS_Kickstarter
+# Vagueness in Crowdfunding
 This is the code used within the paper titled _Exploring investors' expectancies and its impact on project funding success likelihood in crowdfunding by using text analytics and Bayesian networks_ that was published in 2022 (113695) in _**Decision Support Systems**_.
 
 Due to the size of the original data file, a sample version was uploaded to GitHub. 
