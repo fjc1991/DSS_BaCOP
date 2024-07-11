@@ -5,7 +5,7 @@ Due to the size of the original data file, a sample version was uploaded to GitH
 
 The original data can be provided upon request to the lead author Dr. Francis Joseph Costello (joe.costehello@gmail.com) or the corresponding author: Dr. Kun Chang Lee (kunchanglee@gmail.com).
 
-Use of the code, especially the method for extracting the Vagueness scores should be used in fair use. Also the dictionary used for obtaining the Vaguness scores need to be purchased (https://provalisresearch.com/blog/hiller-vagueness-content-analysis-dictionary/).
+Use of the code, especially the method for extracting the Vagueness scores should be used in fair use. Also the dictionary used for obtaining the Vaguness scores is copyrighted and needs to be purchased at the following link: https://provalisresearch.com/blog/hiller-vagueness-content-analysis-dictionary/.
 
 We kindly request that any use of any of the materials from this paper in academia would please use the following citation:
 
