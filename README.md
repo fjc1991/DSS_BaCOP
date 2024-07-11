@@ -9,7 +9,7 @@ Use of the code, especially the method for extracting the Vagueness scores shoul
 
 We kindly request that any use of any of the materials from this paper in academia would please use the following citation:
 
-**APA: **
+**APA:**
 Costello, F. J., & Lee, K. C. (2022). Exploring investors' expectancies and its impact on project funding success likelihood in crowdfunding by using text analytics and Bayesian networks. Decision Support Systems, 154, 113695.
 
 **Extra Information about the publication:**
